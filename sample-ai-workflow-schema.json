@@ -1,0 +1,24 @@
+{
+  "workflow_name": "Sample AI Business Workflow",
+  "confidentiality_note": "Public demonstration only. No client-specific or NDA-protected materials included.",
+  "business_goal": "Organize intake information, analyze workflow needs, and produce structured next-step recommendations.",
+  "inputs": [
+    "client_intake_form",
+    "business_process_notes",
+    "document_summary",
+    "workflow_requirements"
+  ],
+  "ai_review_steps": [
+    "identify_business_objective",
+    "extract_key_requirements",
+    "detect_bottlenecks",
+    "recommend_workflow_steps",
+    "generate_structured_output"
+  ],
+  "sample_output": {
+    "summary": "High-level workflow recommendation",
+    "priority_level": "medium",
+    "recommended_next_step": "Create a pilot workflow using controlled sample data",
+    "confidence": "example_only"
+  }
+}
